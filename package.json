@@ -1,0 +1,65 @@
+{
+  "name": "@fitrahive/dua-dhikr",
+  "version": "0.0.1",
+  "private": false,
+  "description": "Authentic Sunnah Dua & Dhikr RESTful API",
+  "main": "dist/app.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/app.js",
+    "dev": "nodemon",
+    "postinstall": "yarn build",
+    "format": "prettier --write .",
+    "commit": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn format && git add --all",
+      "prepare-commit-msg": "exec < /dev/tty && npx cz --hook || true"
+    }
+  },
+  "engines": {
+    "node": ">=16.20.1",
+    "yarn": ">=1.22.19",
+    "npm": "please-use-yarn"
+  },
+  "engineStrict": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fitrahive/dua-dhikr.git"
+  },
+  "author": {
+    "name": "Abu Masyail",
+    "email": "suluhs@aol.com",
+    "url": "https://suluh.my.id"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fitrahive/dua-dhikr/issues"
+  },
+  "homepage": "https://github.com/fitrahive/dua-dhikr",
+  "dependencies": {
+    "@fastify/compress": "^6.4.0",
+    "@fastify/etag": "^4.2.0",
+    "@fastify/rate-limit": "^8.0.3",
+    "fastify": "^4.21.0",
+    "node-cache": "^5.1.2",
+    "pino": "^8.15.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.8",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^8.0.3",
+    "nodemon": "^3.0.1",
+    "prettier": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "tsc": "^2.0.4",
+    "typescript": "^5.1.6"
+  }
+}
