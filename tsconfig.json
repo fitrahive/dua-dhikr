@@ -12,6 +12,6 @@
     "skipLibCheck": true,
     "noImplicitAny": false
   },
-  "include": ["src/**/*"],
-  "exclude": ["node_modules", "**/*.spec.ts"]
+  "include": ["**/*.ts", "**/*.d.ts"],
+  "exclude": ["node_modules"]
 }
