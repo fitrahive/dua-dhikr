@@ -2,7 +2,7 @@
   {
     "title": "Doa Sebelum Tidur",
     "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوْتُ وَأَحْيَا",
-    "latin": "Bismika allahumma amuutu wa ahyaa",
+    "latin": "bismika, allahumma amuutu wa ahyaa",
     "translation": "Dengan menyebut nama-Mu, ya Allah! Aku mati dan dan hidup",
     "notes": null,
     "fawaid": null,
@@ -11,7 +11,7 @@
   {
     "title": "Doa Bangun Tidur",
     "arabic": "الحَمْدُ للهِ الَّذِي أَحْيَانَا بعْدَ مَا أماتَنَا وإِلَيْهِ النُّشُورُ",
-    "latin": "Alhamdulillahilladzi ahyaanaa ba'da maa amaatanaa wa ilaihin nusyuur",
+    "latin": "alhamdulillahilladzi ahyaanaa ba'da maa amaatanaa wa ilaihin nusyuur",
     "translation": "Segala puji bagi Allah, yang telah membangunkan kami setelah menidurkan kami dan kepada-Nya lah kami dibangkitkan",
     "notes": null,
     "fawaid": "Dengan membaca doa di atas, seorang hamba memulai harinya dengan memuji nama Allah yang Maha Menghidupkan dan Maha Mematikan",
@@ -19,75 +19,84 @@
   },
   {
     "title": "Doa Masuk Kamar Mandi",
-    "arabic": "",
-    "latin": "",
-    "translation": "",
-    "notes": "",
-    "fawaid": "",
-    "source": ""
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+    "latin": "allahumma innii a'uudzubika minal khubutsi wal khabaaitsi",
+    "translation": "Ya Allah, aku berlindung pada-Mu dari (godaan) syaitan laki-laki dan perempuan",
+    "notes": null,
+    "fawaid": "Doa ini menjadi penghalang antara aurat seorang hamba dengan jin ketika memasuki Al-khala' (kamar mandi)",
+    "source": "HR. al-Bukhari & Muslim"
+  },
+  {
+    "title": "Doa Keluar Kamar Mandi",
+    "arabic": "غُفْرَانَكَ",
+    "latin": "ghuf-raanak",
+    "translation": "Aku mohon ampunan-Mu (ya Allah)",
+    "notes": null,
+    "fawaid": "Kamar mandi adalah salah satu rumah jin dan syaitan, maka dianjurkan meminta ampunan dari segala kesalahan yang sengaja maupun tidak sengaja selama di kamar mandi",
+    "source": "HR. at-Tirmidzi"
   },
   {
     "title": "Doa Sebelum Makan",
-    "arabic": "",
-    "latin": "",
-    "translation": "",
-    "notes": "",
-    "fawaid": "",
-    "source": ""
+    "arabic": "بِسْمِ اللَّهِ",
+    "latin": "bismillah",
+    "translation": "Dengan nama Allah (aku mulai makan)",
+    "notes": null,
+    "fawaid": "Manfaat membaca bismillah sebelum makan adalah untuk menghalangi syaitan ikut bergabung makan bersama manusia",
+    "source": "HR. al-Bukari no. 5376 & Muslim no. 2022"
   },
   {
     "title": "Doa Jika Terlupa Basmallah Diawal Makan",
-    "arabic": "",
-    "latin": "",
-    "translation": "",
-    "notes": "",
-    "fawaid": "",
-    "source": ""
+    "arabic": "بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ",
+    "latin": "bismillahi awwaluhu wa aakhiruhu",
+    "translation": "Dengan menyebut nama Allah, untuk awal dan akhir (makan)",
+    "notes": null,
+    "fawaid": "Islam sangat memperhatikan adab, sekiranya anak adam lupa membaca doa makan di awal tetap dianjurkan membaca doa di pertengahan walaupun tersisa sesendok nasi",
+    "source": "HR. Abu Dawud"
   },
   {
     "title": "Doa Sesudah Makan",
-    "arabic": "",
-    "latin": "",
-    "translation": "",
-    "notes": "",
-    "fawaid": "",
-    "source": ""
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِى أَطْعَمَنِى هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّى وَلاَ قُوَّةٍ",
+    "latin": "alhamdulillaahilladzii ath'amanii haadzaa wa rozaqoniihi min ghoiri haulin minnii wa laa quwwatin",
+    "translation": "Segala puji bagi Allah yang telah memberiku makanan ini, dan memberikan rezeki kepadaku tanpa daya serta kekuatan dariku",
+    "notes": null,
+    "fawaid": "Rasulullah ﷺ bersabda jika seseorang membaca doa tersebut maka diampuni dosanya yang telah lalu",
+    "source": "Shahih at-Tirmidzi"
   },
   {
     "title": "Doa Masuk Masjid",
-    "arabic": "",
-    "latin": "",
-    "translation": "",
-    "notes": "",
-    "fawaid": "",
-    "source": ""
+    "arabic": "اَللَّهُمَّ افْتَحْ لِيْ أَبْوَابَ رَحْمَتِكَ",
+    "latin": "allahummaftah lii abwaaba rahmatika",
+    "translation": "Ya Allah, bukalah pintu-pintu rahmat-Mu untukku",
+    "notes": null,
+    "fawaid": "Masjid adalah rumah Allah, hendaknya seorang hamba mengagungkannya dan berharap rahmat Allah di dalamnya",
+    "source": "HR. Muslim"
   },
   {
     "title": "Doa Keluar Masjid",
-    "arabic": "",
-    "latin": "",
-    "translation": "",
-    "notes": "",
-    "fawaid": "",
-    "source": ""
+    "arabic": "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ",
+    "latin": "allahumma innii as'aluka min fadhlika",
+    "translation": "Ya Allah, sesungguhnya aku memohon karunia-Mu",
+    "notes": null,
+    "fawaid": "Bumi Allah sangatlah luas, ada banyak jalan mencari rezeki. Hendalkah seorang hamba meminta karunia kepada Allah agar dimudahkan untuk mendapat rezeki yang telah Allah bagikan kepada seluruh hamba-Nya",
+    "source": "HR. Muslim no. 713"
   },
   {
     "title": "Doa Sebelum Berwudhu",
-    "arabic": "",
-    "latin": "",
-    "translation": "",
-    "notes": "",
-    "fawaid": "",
-    "source": ""
+    "arabic": "بِسْمِ اللَّهِ",
+    "latin": "bismillah",
+    "translation": "Dengan nama Allah (aku mulai berwudhu)",
+    "notes": null,
+    "fawaid": "Disyariatkan memulai setiap perkara yang penting dengan mengucapkan bismillah dalam hal ibadah ataupun lainnya",
+    "source": "HR. at-Tirmidzi & al-Baihaqi"
   },
   {
     "title": "Doa Sesudah Berwudhu",
-    "arabic": "",
-    "latin": "",
-    "translation": "",
-    "notes": "",
-    "fawaid": "",
-    "source": ""
+    "arabic": "أشْهَدُ أنْ لا إله إِلاَّ اللَّهُ وَحْدَهُ لا شَرِيك لَهُ ، وأشْهَدُ أنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ ، اللَّهُمَّ اجْعَلْنِي مِنَ التَوَّابِينَ ، واجْعَلْني مِنَ المُتَطَهِّرِينَ ، سُبْحانَكَ اللَّهُمَّ وبِحَمْدِكَ ، أشْهَدُ أنْ لا إلهَ إِلاَّ أنْتَ ، أسْتَغْفِرُكَ وأتُوبُ إِلَيْكَ",
+    "latin": "asyhadu an laa ilaaha illa allah wadahu laa syariika lahu, wa asyhadu anna muhammadan 'abduhu wa rasuuluhu. allahummaj 'alni minat tawwaabiina waj 'alnii minal mutathaahiriina. subhaanaka allahumma wa bihamdika asyhadu an laa ilaaha illa anta astaghfiruka wa atuubu ilaika",
+    "translation": "Aku bersaksi bahwa tidak ada tuhan selain Allah semata yang tidak ada sekutu bagi-Nya dan aku pun bersaksi bahwa Muhammad adalah hamba sekaligus Rasul utusan-Nya. Ya Allah, jadikanlah aku termasuk orang-orang yang bertaubat dan jadikanlah aku termasuk orang-orang yang bersuci. Mahasuci Engkau wahai tuhan kami dan segala puji bagi-Mu. Aku bersaksi bahwa tiada tuhan selain Engkau. Aku memohon ampunan dan bertaubat kepada-Mu",
+    "notes": null,
+    "fawaid": "Barangsiapa yang mengucapkan doa tersebut maka akan dibukakan baginya delapan pintu Surga. Dia memasukinya dari arah mana saja yang ia kehendaki",
+    "source": "HR. Muslim, at-Tirmidzi & an-Nasa'i"
   },
   {
     "title": "Doa Buka Puasa #1",
