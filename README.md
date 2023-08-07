@@ -60,7 +60,7 @@ The fastest way to use it privately on PaaS available
 
 ## Basic Usage
 
-Base URL : [`http://localhost:5000`](https://dua-dhikr.vercel.app)
+Base URL : [`http://localhost:3000`](https://dua-dhikr.vercel.app)
 
 | Endpoint                                                              | Description                                                                    | Method |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------ |
@@ -84,7 +84,7 @@ List of server APIs ready to use publicly
 
 Complete or add Duas and Dhikr data according to the authentic Sunnah that you know, ensure the data is authentic!
 
-> **Warning!**<br>
+> **Warning**<br>
 > Fear Allah! Your contributions will be accounted for in the Hereafter!
 
 1. Clone this repository
