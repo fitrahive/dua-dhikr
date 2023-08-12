@@ -85,6 +85,7 @@ List of server APIs ready to use publicly
 
 - [https://dua-dhikr.vercel.app](https://dua-dhikr.vercel.app/categories)
 - [https://dua-dhikr.onrender.com](https://dua-dhikr.onrender.com/categories)
+- [https://dua-dhikr-sooluh.koyeb.app](https://dua-dhikr-sooluh.koyeb.app/categories)
 
 ## Contribute
 

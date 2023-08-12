@@ -85,6 +85,7 @@ Daftar _server_ API yang siap digunakan secara publik
 
 - [https://dua-dhikr.vercel.app](https://dua-dhikr.vercel.app/categories)
 - [https://dua-dhikr.onrender.com](https://dua-dhikr.onrender.com/categories)
+- [https://dua-dhikr-sooluh.koyeb.app](https://dua-dhikr-sooluh.koyeb.app/categories)
 
 ## Kontribusi
 
