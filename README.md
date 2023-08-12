@@ -83,7 +83,8 @@ List of awesome projects (اللّٰهُمَّ بَارِكْ) powered by this A
 
 List of server APIs ready to use publicly
 
-- [https://dua-dhikr.vercel.app](https://dua-dhikr.vercel.app/id)
+- [https://dua-dhikr.vercel.app](https://dua-dhikr.vercel.app/categories)
+- [https://dua-dhikr.onrender.com](https://dua-dhikr.onrender.com/categories)
 
 ## Contribute
 

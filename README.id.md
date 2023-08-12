@@ -83,7 +83,8 @@ Daftar proyek keren (اللّٰهُمَّ بَارِكْ) yang didukung oleh API
 
 Daftar _server_ API yang siap digunakan secara publik
 
-- [https://dua-dhikr.vercel.app](https://dua-dhikr.vercel.app/id)
+- [https://dua-dhikr.vercel.app](https://dua-dhikr.vercel.app/categories)
+- [https://dua-dhikr.onrender.com](https://dua-dhikr.onrender.com/categories)
 
 ## Kontribusi
 
