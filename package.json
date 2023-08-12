@@ -1,7 +1,7 @@
 {
   "name": "@fitrahive/dua-dhikr",
   "version": "0.0.1",
-  "private": false,
+  
   "description": "Authentic Sunnah Dua & Dhikr RESTful API",
   "main": "dist/app.js",
   "scripts": {

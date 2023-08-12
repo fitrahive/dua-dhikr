@@ -1,6 +1,6 @@
 # Doa & Dzikir
 
-Server RESTful API gratis yang menyajikan Doa dan Dzikir sesuai Sunnah Nabi Muhammad _shallallahu 'alaihi wa sallam_
+_Server_ RESTful API gratis yang menyajikan Doa dan Dzikir sesuai Sunnah Nabi Muhammad _shallallahu 'alaihi wa sallam_
 
 ## بسم الله الرحمن الرحيم
 
@@ -13,19 +13,19 @@ Server RESTful API gratis yang menyajikan Doa dan Dzikir sesuai Sunnah Nabi Muha
 
 ## Memulai
 
-1. Clone repositori ini
+1. _Clone_ repositori ini
 
    ```bash
    git clone https://github.com/fitrahive/dua-dhikr.git
    ```
 
-2. Pindah direktori saat ini ke repositori
+2. Pindah ke direktori repositori
 
    ```bash
    cd dua-dhikr
    ```
 
-3. Install dependensi
+3. _Install_ dependensi
 
    ```bash
    yarn install
@@ -33,7 +33,7 @@ Server RESTful API gratis yang menyajikan Doa dan Dzikir sesuai Sunnah Nabi Muha
 
 4. Jalankan di lokal
 
-   - Mode pengembangan (development)
+   - Mode pengembangan (_development_)
 
      ```bash
      yarn dev
@@ -41,7 +41,7 @@ Server RESTful API gratis yang menyajikan Doa dan Dzikir sesuai Sunnah Nabi Muha
 
    - Mode produksi
 
-     1. Build terlebih dulu
+     1. _Build_ terlebih dulu
 
         ```bash
         yarn build
@@ -53,7 +53,7 @@ Server RESTful API gratis yang menyajikan Doa dan Dzikir sesuai Sunnah Nabi Muha
         yarn start
         ```
 
-### One-click Deployment
+### _One-click Deployment_
 
 Cara cepat untuk menggunakannya secara pribadi dengan PaaS yang ada
 
@@ -62,50 +62,50 @@ Cara cepat untuk menggunakannya secara pribadi dengan PaaS yang ada
 
 ## Penggunaan
 
-Base URL : [`http://localhost:3000`](https://dua-dhikr.vercel.app)
+URL Utama : [`http://localhost:3000`](https://dua-dhikr.vercel.app)
 
-| Titik Akhir                                                           | Deskripsi                                                                  | Metode |
-| --------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------ |
-| [`/:lang`](https://dua-dhikr.vercel.app/id)                           | Mendapatkan daftar dengan bahasa spesifik                                  | `GET`  |
-| [`/:lang/:category`](https://dua-dhikr.vercel.app/id/daily-dua)       | Mendapatkan daftar isi berdasarkan bahasa dan kategori                     | `GET`  |
-| [`/:lang/:category/:id`](https://dua-dhikr.vercel.app/id/daily-dua/1) | Mengambil detail Doa & Dzikir berdasarkan bahasa, kategori dan ID spesifik | `GET`  |
+| Titik Akhir                                                           | Deskripsi                                                                  | Metode  |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------- |
+| [`/:lang`](https://dua-dhikr.vercel.app/id)                           | Mendapatkan daftar dengan bahasa spesifik                                  | `*GET*` |
+| [`/:lang/:category`](https://dua-dhikr.vercel.app/id/daily-dua)       | Mendapatkan daftar isi berdasarkan bahasa dan kategori                     | `*GET*` |
+| [`/:lang/:category/:id`](https://dua-dhikr.vercel.app/id/daily-dua/1) | Mengambil detail Doa & Dzikir berdasarkan bahasa, kategori dan ID spesifik | `*GET*` |
 
 ### Pameran
 
 Daftar proyek keren (اللّٰهُمَّ بَارِكْ) yang didukung oleh API ini
 
-- **Kirimkan (dengan cara pull-request) proyek kamu!**
+- **Kirimkan (dengan cara _pull-request_) proyek kamu!**
 
 ### Siap digunakan!
 
-Daftar server API yang siap digunakan secara publik
+Daftar _server_ API yang siap digunakan secara publik
 
 - [https://dua-dhikr.vercel.app](https://dua-dhikr.vercel.app/id)
 
 ## Kontribusi
 
-Lengkapi atau tambah data Doa & Dzikir sesuai Sunnah yang kamu tau, pastikan data tersebut shahih!
+Lengkapi atau tambah data Doa & Dzikir sesuai Sunnah yang kamu tahu, pastikan data tersebut shahih!
 
 > **Warning**<br>
 > Bertakwalah kepada Allah! Kontribusimu akan dihisab kelak di akhirat!
 
-1. Clone repositori ini
-2. Buka direktori `data/` dan pilih bahasa yang sudah ada (atau tambahkan baru), pastikan menggunakan kode `ISO 639`
+1. _Fork_ repositori ini
+2. Buka `data/` dan pilih bahasa yang sudah ada (atau tambahkan baru), gunakan kode `ISO 639`
 3. Buka berkas JSON di kategori yang diinginkan
 4. Lakukan perubahan dengan hati-hati!
-5. Commit perubahan dengan perintah `yarn commit`.
-6. Buat pull-request
-7. Tunggu owner repositori melakukan merge
+5. _Commit_ perubahan dengan perintah `yarn commit`.
+6. Ajukan _pull-request_
+7. Tunggu _owner_ melakukan _merge_
 
 ### Catatan
 
-- `title` berisi judul Doa/Dzikir.
-- `arabic` berisi Doa/Dzikir dalam tulisan arab.
-- `latin` berisi transliterasi dari tulisan arab ke latin.
-- `translation` berisi terjemahan (translasi) dalam bahasa yang diinginkan.
-- `notes` berisi catatan (Semisal: Dibaca 3x).
-- `fawaid` berisi faedah/fawaid dari Doa/Dzikir terkait.
-- `source` berisi referensi hadits shahih.
+- _`title`_ berisi judul Doa/Dzikir.
+- _`arabic`_ berisi Doa/Dzikir dalam tulisan arab.
+- _`latin`_ berisi transliterasi dari tulisan arab ke latin.
+- _`translation`_ berisi terjemahan (translasi) ke bahasa terkait.
+- _`notes`_ berisi catatan (Contoh: Dibaca 3x).
+- _`fawaid`_ berisi faedah/fawaid dari Doa/Dzikir terkait.
+- _`source`_ berisi referensi hadits yang shahih.
 
 ## Lisensi
 

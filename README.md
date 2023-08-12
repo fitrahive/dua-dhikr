@@ -13,13 +13,13 @@ A free RESTful API server that provides Duas and Dhikr following the Sunnah of t
 
 ## Getting Started
 
-1. Clone this repository anywhere
+1. Clone this repository
 
    ```bash
    git clone https://github.com/fitrahive/dua-dhikr.git
    ```
 
-2. Change current directory to this repository folder
+2. Move to the repository directory
 
    ```bash
    cd dua-dhikr
@@ -74,7 +74,7 @@ Base URL : [`http://localhost:3000`](https://dua-dhikr.vercel.app)
 
 List of awesome projects (اللّٰهُمَّ بَارِكْ) powered by this API
 
-- **Submit your showcase!**
+- **Submit your project (via a pull-request)!**
 
 ### Ready to use!
 
@@ -89,12 +89,12 @@ Complete or add Duas and Dhikr data according to the authentic Sunnah that you k
 > **Warning**<br>
 > Fear Allah! Your contributions will be accounted for in the Hereafter!
 
-1. Clone this repository
-2. Go to the `data/` directory and navigate to the existing language (or add one), making sure to use `ISO 639` code
+1. Fork this repository
+2. Go to the `data/` and navigate to the existing language (or add one), use `ISO 639` code
 3. Open the JSON file in the desired category
 4. Make change carefully!
 5. Commit the change using the command `yarn commit`.
-6. Create a pull request
+6. Create a pull-request
 7. Wait for the owner to merge
 
 ### Note
