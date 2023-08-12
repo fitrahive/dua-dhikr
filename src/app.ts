@@ -6,6 +6,7 @@ const app = async () => {
     console.info('Running app...')
     const app = fastify({ ignoreTrailingSlash: true, caseSensitive: false })
 
+    await app.register(import('@fastify/cors'))
     await app.register(import('@fastify/compress'))
     await app.register(import('@fastify/etag'))
     await app.register(import('@fastify/rate-limit'), { max: 2, timeWindow: '1 second' })
