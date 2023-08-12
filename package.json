@@ -1,16 +1,25 @@
 {
   "name": "@fitrahive/dua-dhikr",
-  "version": "0.0.1",
-  
+  "version": "0.1.0",
   "description": "Authentic Sunnah Dua & Dhikr RESTful API",
   "main": "dist/app.js",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc -p tsconfig.json",
     "start": "node ./dist/app.js",
     "dev": "nodemon",
     "postinstall": "yarn build",
     "format": "prettier --write .",
     "commit": "git-cz"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "semi": false,
+    "singleQuote": true,
+    "useTabs": false,
+    "quoteProps": "consistent",
+    "bracketSpacing": true,
+    "arrowParens": "always",
+    "printWidth": 100
   },
   "config": {
     "commitizen": {
@@ -23,12 +32,6 @@
       "prepare-commit-msg": "exec < /dev/tty && npx cz --hook || true"
     }
   },
-  "engines": {
-    "node": ">=16.20.1",
-    "yarn": ">=1.22.0",
-    "npm": "please-use-yarn"
-  },
-  "engineStrict": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fitrahive/dua-dhikr.git"
@@ -48,8 +51,7 @@
     "@fastify/etag": "^4.2.0",
     "@fastify/rate-limit": "^8.0.3",
     "fastify": "^4.21.0",
-    "node-cache": "^5.1.2",
-    "pino": "^8.15.0"
+    "node-cache": "^5.1.2"
   },
   "devDependencies": {
     "@types/node": "^20.4.8",

@@ -4,14 +4,16 @@
     "rootDir": "./src",
     "module": "commonjs",
     "strict": true,
-    "target": "ES2020",
+    "target": "es6",
     "resolveJsonModule": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "removeComments": true,
     "skipLibCheck": true,
-    "noImplicitAny": false
+    "noImplicitAny": false,
+    "declaration": true,
+    "typeRoots": ["node_modules/@types", "types"]
   },
-  "include": ["**/*.ts", "**/*.d.ts"],
+  "include": ["src/**/*.ts", "src/**/*.d.ts"],
   "exclude": ["node_modules"]
 }

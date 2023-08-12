@@ -1,0 +1,24 @@
+{
+  "id": [
+    {
+      "name": "Dzikir Pagi",
+      "slug": "morning-dhikr"
+    },
+    {
+      "name": "Dzikir Petang",
+      "slug": "evening-dhikr"
+    },
+    {
+      "name": "Doa Harian",
+      "slug": "daily-dua"
+    },
+    {
+      "name": "Doa Pilihan",
+      "slug": "selected-dua"
+    },
+    {
+      "name": "Dzikir Setalah Shalat",
+      "slug": "dhikr-after-salah"
+    }
+  ]
+}
