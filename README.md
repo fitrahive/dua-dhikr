@@ -58,17 +58,20 @@ A free RESTful API server that provides Duas and Dhikr following the Sunnah of t
 The fastest way to use it privately on PaaS available
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ffitrahive%2Fdua-dhikr%2Ftree%2Fmain)
-[![Deploy with Cyclic](https://ik.imagekit.io/sooluh/cyclic.svg)](https://app.cyclic.sh/#/join/sooluh)
 
 ## Basic Usage
 
 Base URL : [`http://localhost:3000`](https://dua-dhikr.vercel.app)
 
-| Endpoint                                                              | Description                                                                    | Method |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------ |
-| [`/:lang`](https://dua-dhikr.vercel.app/id)                           | Obtaining a list of Duas & Dhikr in a specific language                        | `GET`  |
-| [`/:lang/:category`](https://dua-dhikr.vercel.app/id/daily-dua)       | Getting a table of contents based on language and category                     | `GET`  |
-| [`/:lang/:category/:id`](https://dua-dhikr.vercel.app/id/daily-dua/1) | Retrieving details of a Dua/Dhikr based on language, category, and specific ID | `GET`  |
+| Endpoint                                                                       | Description                                                | Method |
+| ------------------------------------------------------------------------------ | ---------------------------------------------------------- | ------ |
+| [`/languages`](https://dua-dhikr.vercel.app/languages)                         | Retrieve a list of supported languages                     | `GET`  |
+| [`/categories`](https://dua-dhikr.vercel.app/categories)                       | Retrieve a list of dua & dhikr categories                  | `GET`  |
+| [`/categories/:slug`](https://dua-dhikr.vercel.app/categories/daily-dua)       | Retrieve a list of dua & dhikr based on a category         | `GET`  |
+| [`/categories/:slug/:id`](https://dua-dhikr.vercel.app/categories/daily-dua/1) | Retrieve details of a dua & dhikr based on category and id | `GET`  |
+
+> [!IMPORTANT]
+> To retrieve data in supported language, use the `Accept-Language` header. By default, it will use `id` (Indonesian).
 
 ### Showcase
 
@@ -86,16 +89,16 @@ List of server APIs ready to use publicly
 
 Complete or add Duas and Dhikr data according to the authentic Sunnah that you know, ensure the data is authentic!
 
-> **Warning**<br>
+> [!WARNING]
 > Fear Allah! Your contributions will be accounted for in the Hereafter!
 
 1. Fork this repository
-2. Go to the `data/` and navigate to the existing language (or add one), use `ISO 639` code
-3. Open the JSON file in the desired category
-4. Make change carefully!
+2. Open `data/dua-dhikr` and select an available category
+3. Open the JSON file in the desired language, or add a new one with the `ISO 639` code
+4. Make changes carefully!
 5. Commit the change using the command `yarn commit`.
-6. Create a pull-request
-7. Wait for the owner to merge
+6. Submit a pull-request
+7. Wait for us to perform the merge
 
 ### Note
 

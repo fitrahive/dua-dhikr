@@ -58,17 +58,20 @@ _Server_ RESTful API gratis yang menyajikan Doa dan Dzikir sesuai Sunnah Nabi Mu
 Cara cepat untuk menggunakannya secara pribadi dengan PaaS yang ada
 
 [![Deploy dengan Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ffitrahive%2Fdua-dhikr%2Ftree%2Fmain)
-[![Deploy dengan Cyclic](https://ik.imagekit.io/sooluh/cyclic.svg)](https://app.cyclic.sh/#/join/sooluh)
 
 ## Penggunaan
 
 URL Utama : [`http://localhost:3000`](https://dua-dhikr.vercel.app)
 
-| Titik Akhir                                                           | Deskripsi                                                                  | Metode  |
-| --------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------- |
-| [`/:lang`](https://dua-dhikr.vercel.app/id)                           | Mendapatkan daftar dengan bahasa spesifik                                  | `*GET*` |
-| [`/:lang/:category`](https://dua-dhikr.vercel.app/id/daily-dua)       | Mendapatkan daftar isi berdasarkan bahasa dan kategori                     | `*GET*` |
-| [`/:lang/:category/:id`](https://dua-dhikr.vercel.app/id/daily-dua/1) | Mengambil detail Doa & Dzikir berdasarkan bahasa, kategori dan ID spesifik | `*GET*` |
+| Titik Akhir                                                                    | Deskripsi                                                     | Metode  |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------- | ------- |
+| [`/languages`](https://dua-dhikr.vercel.app/languages)                         | Mendapatkan daftar bahasa yang di dukung                      | _`GET`_ |
+| [`/categories`](https://dua-dhikr.vercel.app/categories)                       | Mendapatkan daftar kategori doa & dzikir                      | _`GET`_ |
+| [`/categories/:slug`](https://dua-dhikr.vercel.app/categories/daily-dua)       | Mendapatkan daftar doa & dzikir berdasarkan kategori tertentu | _`GET`_ |
+| [`/categories/:slug/:id`](https://dua-dhikr.vercel.app/categories/daily-dua/1) | Mendapatkan detail doa & dzikir berdasarkan kategori dan id   | _`GET`_ |
+
+> [!IMPORTANT]
+> Untuk mendapatkan data dengan bahasa yang didukung, gunakan header `Accept-Language`. Secara bawaan akan menggunakan `id` (Bahasa Indonesia).
 
 ### Pameran
 
@@ -86,16 +89,16 @@ Daftar _server_ API yang siap digunakan secara publik
 
 Lengkapi atau tambah data Doa & Dzikir sesuai Sunnah yang kamu tahu, pastikan data tersebut shahih!
 
-> **Warning**<br>
+> [!WARNING]
 > Bertakwalah kepada Allah! Kontribusimu akan dihisab kelak di akhirat!
 
 1. _Fork_ repositori ini
-2. Buka `data/` dan pilih bahasa yang sudah ada (atau tambahkan baru), gunakan kode `ISO 639`
-3. Buka berkas JSON di kategori yang diinginkan
+2. Buka `data/dua-dhikr` dan pilih kategori yang tersedia
+3. Buka berkas JSON pada bahasa yang diinginkan, atau tambah baru dengan kode `ISO 639`
 4. Lakukan perubahan dengan hati-hati!
 5. _Commit_ perubahan dengan perintah `yarn commit`.
 6. Ajukan _pull-request_
-7. Tunggu _owner_ melakukan _merge_
+7. Tunggu kami melakukan _merge_
 
 ### Catatan
 
