@@ -85,7 +85,8 @@ URL Utama : [`http://localhost:3000`](https://dua-dhikr.vercel.app)
 
 Daftar proyek keren (اللّٰهُمَّ بَارِكْ) yang didukung oleh API ini
 
-- **Kirimkan (dengan cara _pull-request_) proyek kamu!**
+- [**Kaaba**](https://github.com/sooluh/kaaba)<br>
+  Aplikasi doa & dzikir sesuai sunnah (berbasis web) oleh [@sooluh](https://github.com/sooluh)
 
 ### Siap digunakan!
 

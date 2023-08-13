@@ -85,7 +85,8 @@ Base URL : [`http://localhost:3000`](https://dua-dhikr.vercel.app)
 
 List of awesome projects (اللّٰهُمَّ بَارِكْ) powered by this API
 
-- **Submit your project (via a pull-request)!**
+- [**Kaaba**](https://github.com/sooluh/kaaba)<br>
+  Authentic sunnah dua & dhikr app (web based) by [@sooluh](https://github.com/sooluh)
 
 ### Ready to use!
 
