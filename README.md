@@ -57,28 +57,15 @@ A free RESTful API server that provides Duas and Dhikr following the Sunnah of t
 
 The fastest way to use it privately on PaaS available
 
-<table>
-   <tr>
-      <td align="center">
-         <strong>Deploy with Vercel</strong><br><br>
-         <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ffitrahive%2Fdua-dhikr%2Ftree%2Fmain">
-            <img alt="Deploy with Vercel" src="https://vercel.com/button" height="32" />
-         </a>
-      </td>
-      <td align="center">
-         <strong>Deploy with Koyeb</strong><br><br>
-         <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/fitrahive/dua-dhikr&branch=main&name=dua-dhikr">
-            <img alt="Deploy with Koyeb" src="https://www.koyeb.com/static/images/deploy/button.svg" height="32" />
-         </a>
-      </td>
-      <td align="center">
-         <strong>Deploy with Render</strong><br><br>
-         <a href="https://render.com/deploy">
-            <img alt="Deploy with Render" src="https://render.com/images/deploy-to-render-button.svg" height="32" />
-         </a>
-      </td>
-   </tr>
-</table>
+<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ffitrahive%2Fdua-dhikr%2Ftree%2Fmain">
+  <img alt="Deploy with Vercel" src="https://vercel.com/button" height="32" />
+</a>
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/fitrahive/dua-dhikr&branch=main&name=dua-dhikr">
+  <img alt="Deploy with Koyeb" src="https://www.koyeb.com/static/images/deploy/button.svg" height="32" />
+</a>
+<a href="https://render.com/deploy">
+  <img alt="Deploy with Render" src="https://render.com/images/deploy-to-render-button.svg" height="32" />
+</a>
 
 ## Basic Usage
 

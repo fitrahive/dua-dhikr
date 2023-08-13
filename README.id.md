@@ -57,28 +57,15 @@ _Server_ RESTful API gratis yang menyajikan Doa dan Dzikir sesuai Sunnah Nabi Mu
 
 Cara cepat untuk menggunakannya secara pribadi dengan PaaS yang ada
 
-<table>
-   <tr>
-      <td align="center">
-         <strong><em>Deploy</em> dengan Vercel</strong><br><br>
-         <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ffitrahive%2Fdua-dhikr%2Ftree%2Fmain">
-            <img alt="Deploy dengan Vercel" src="https://vercel.com/button" height="32" />
-         </a>
-      </td>
-      <td align="center">
-         <strong><em>Deploy</em> dengan Koyeb</strong><br><br>
-         <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/fitrahive/dua-dhikr&branch=main&name=dua-dhikr">
-            <img alt="Deploy dengan Koyeb" src="https://www.koyeb.com/static/images/deploy/button.svg" height="32" />
-         </a>
-      </td>
-      <td align="center">
-         <strong><em>Deploy</em> dengan Render</strong><br><br>
-         <a href="https://render.com/deploy">
-            <img alt="Deploy dengan Render" src="https://render.com/images/deploy-to-render-button.svg" height="32" />
-         </a>
-      </td>
-   </tr>
-</table>
+<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ffitrahive%2Fdua-dhikr%2Ftree%2Fmain">
+  <img alt="Deploy dengan Vercel" src="https://vercel.com/button" height="32" />
+</a>
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/fitrahive/dua-dhikr&branch=main&name=dua-dhikr">
+  <img alt="Deploy dengan Koyeb" src="https://www.koyeb.com/static/images/deploy/button.svg" height="32" />
+</a>
+<a href="https://render.com/deploy">
+  <img alt="Deploy dengan Render" src="https://render.com/images/deploy-to-render-button.svg" height="32" />
+</a>
 
 ## Penggunaan
 
