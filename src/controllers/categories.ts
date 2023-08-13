@@ -6,6 +6,10 @@ export const categories = (app: FastifyInstance) => {
   return (request: FastifyRequest, reply: FastifyReply) => {
     const language = request.headers['accept-language'] || 'id'
 
+    if (!(language in app.data.categories)) {
+      return sendNotFound(reply)
+    }
+
     const result = app.data.categories[language].map(
       (category: CategoryType & { total?: number }) => {
         const total = app.data.items[category.slug][language].length
