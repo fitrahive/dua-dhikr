@@ -71,7 +71,7 @@ export const detail = (app: FastifyInstance) => {
       category: slug,
       categoryName: category.name,
       arabic: item.arabic,
-      latin: item.translation,
+      latin: item.latin,
       translation: item.translation,
       notes: item.notes,
       fawaid: item.fawaid,
