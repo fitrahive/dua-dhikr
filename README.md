@@ -81,6 +81,9 @@ Base URL : [`http://localhost:3000`](https://dua-dhikr.vercel.app)
 > [!IMPORTANT]
 > To retrieve data in supported language, use the `Accept-Language` header. By default, it will use `id` (Indonesian).
 
+> [!WARNING]
+> Currently, only Indonesian is ready to be served! For English and other languages, translation is in progress. Please wait, or help us to translate into other languages (except English, which is currently under development).
+
 ### Showcase
 
 List of awesome projects (اللّٰهُمَّ بَارِكْ) powered by this API

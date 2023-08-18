@@ -20,5 +20,27 @@
       "name": "Dzikir Setelah Shalat",
       "slug": "dhikr-after-salah"
     }
+  ],
+  "en": [
+    {
+      "name": "Morning Dhikr",
+      "slug": "morning-dhikr"
+    },
+    {
+      "name": "Evening Dhikr",
+      "slug": "evening-dhikr"
+    },
+    {
+      "name": "Daily Dua",
+      "slug": "daily-dua"
+    },
+    {
+      "name": "Selected Dua",
+      "slug": "selected-dua"
+    },
+    {
+      "name": "Dhikr After Salah",
+      "slug": "dhikr-after-salah"
+    }
   ]
 }
