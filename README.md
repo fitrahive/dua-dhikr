@@ -1,3 +1,5 @@
+<a href="https://donasi.inh.or.id/PulihkanGaza"><img alt="I stand with Palestine" src="https://github.com/Safouene1/support-palestine-banner/blob/master/banner-project.svg" width="100%" /></a>
+
 # Dua & Dhikr
 
 A free RESTful API server that provides Duas and Dhikr following the Sunnah of the Prophet Muhammad (peace be upon him)
