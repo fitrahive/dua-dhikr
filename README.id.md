@@ -1,3 +1,5 @@
+<a href="https://donasi.inh.or.id/PulihkanGaza"><img alt="I stand with Palestine" src="https://github.com/Safouene1/support-palestine-banner/blob/master/banner-project.svg" width="100%" /></a>
+
 # Doa & Dzikir
 
 _Server_ RESTful API gratis yang menyajikan Doa dan Dzikir sesuai Sunnah Nabi Muhammad _shallallahu 'alaihi wa sallam_
