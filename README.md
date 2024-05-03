@@ -30,7 +30,7 @@ A free RESTful API server that provides Duas and Dhikr following the Sunnah of t
 3. Install dependencies
 
    ```bash
-   yarn install
+   npm ci
    ```
 
 4. Run locally
@@ -38,7 +38,7 @@ A free RESTful API server that provides Duas and Dhikr following the Sunnah of t
    - Development mode
 
      ```bash
-     yarn dev
+     npm run dev
      ```
 
    - Production mode
@@ -46,13 +46,13 @@ A free RESTful API server that provides Duas and Dhikr following the Sunnah of t
      1. Build first
 
         ```bash
-        yarn build
+        npm run build
         ```
 
      2. Start app
 
         ```bash
-        yarn start
+        npm run start
         ```
 
 ### One-click Deployment
@@ -111,11 +111,11 @@ Complete or add Duas and Dhikr data according to the authentic Sunnah that you k
 2. Open `data/dua-dhikr` and select an available category
 3. Open the JSON file in the desired language, or add a new one with the `ISO 639` code
 4. Make changes carefully!
-5. Commit the change using the command `yarn commit`.
+5. Commit the change using the command `npm run commit`.
 6. Submit a pull-request
 7. Wait for us to perform the merge
 
-### Note
+#### Columns description
 
 - `title` contains the title of the Dua/Dhikr.
 - `arabic` contains the Dua/Dhikr in Arabic script.

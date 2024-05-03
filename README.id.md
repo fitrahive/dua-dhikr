@@ -30,7 +30,7 @@ _Server_ RESTful API gratis yang menyajikan Doa dan Dzikir sesuai Sunnah Nabi Mu
 3. _Install_ dependensi
 
    ```bash
-   yarn install
+   npm ci
    ```
 
 4. Jalankan di lokal
@@ -38,7 +38,7 @@ _Server_ RESTful API gratis yang menyajikan Doa dan Dzikir sesuai Sunnah Nabi Mu
    - Mode pengembangan (_development_)
 
      ```bash
-     yarn dev
+     npm run dev
      ```
 
    - Mode produksi
@@ -46,13 +46,13 @@ _Server_ RESTful API gratis yang menyajikan Doa dan Dzikir sesuai Sunnah Nabi Mu
      1. _Build_ terlebih dulu
 
         ```bash
-        yarn build
+        npm run build
         ```
 
      2. Jalankan aplikasi
 
         ```bash
-        yarn start
+        npm run start
         ```
 
 ### _One-click Deployment_
@@ -108,11 +108,11 @@ Lengkapi atau tambah data Doa & Dzikir sesuai Sunnah yang kamu tahu, pastikan da
 2. Buka `data/dua-dhikr` dan pilih kategori yang tersedia
 3. Buka berkas JSON pada bahasa yang diinginkan, atau tambah baru dengan kode `ISO 639`
 4. Lakukan perubahan dengan hati-hati!
-5. _Commit_ perubahan dengan perintah `yarn commit`.
+5. _Commit_ perubahan dengan perintah `npm run commit`.
 6. Ajukan _pull-request_
 7. Tunggu kami melakukan _merge_
 
-### Catatan
+### Deskripsi kolom
 
 - _`title`_ berisi judul Doa/Dzikir.
 - _`arabic`_ berisi Doa/Dzikir dalam tulisan arab.
