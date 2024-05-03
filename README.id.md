@@ -10,8 +10,8 @@ _Server_ RESTful API gratis yang menyajikan Doa dan Dzikir sesuai Sunnah Nabi Mu
 
 ## Persyaratan
 
-- Node.js `>= 16.20.1`
-- Yarn `>= 1.22.0`
+- Node.js `>= 20.x`
+- npm
 
 ## Memulai
 

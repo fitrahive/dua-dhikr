@@ -10,8 +10,8 @@ A free RESTful API server that provides Duas and Dhikr following the Sunnah of t
 
 ## Requirements
 
-- Node.js `>= 16.20.1`
-- Yarn `>= 1.22.0`
+- Node.js `>= 20.x`
+- npm
 
 ## Getting Started
 
