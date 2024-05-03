@@ -1,4 +1,4 @@
-<a href="https://donasi.inh.or.id/PulihkanGaza"><img alt="I stand with Palestine" src="https://github.com/Safouene1/support-palestine-banner/blob/master/banner-project.svg" width="100%" /></a>
+<a href="https://s.id/standwithpalestine"><img alt="I stand with Palestine" src="https://cdn.jsdelivr.net/gh/Safouene1/support-palestine-banner@master/banner-project.svg" width="100%" /></a>
 
 # Doa & Dzikir
 
@@ -96,7 +96,6 @@ Daftar _server_ API yang siap digunakan secara publik
 
 - [https://dua-dhikr.vercel.app](https://dua-dhikr.vercel.app/categories)
 - [https://dua-dhikr.onrender.com](https://dua-dhikr.onrender.com/categories)
-- [https://dua-dhikr-sooluh.koyeb.app](https://dua-dhikr-sooluh.koyeb.app/categories)
 
 ## Kontribusi
 

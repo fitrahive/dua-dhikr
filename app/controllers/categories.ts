@@ -1,13 +1,13 @@
-import { CategoryType, DetailType } from '../types'
-import { createSpecResponse, sendNotFound } from '../utils/spec'
+import { CategoryType, DetailType } from '../../types'
+import { createSpecResponse, sendBadRequest, sendNotFound } from '../helpers/spec'
 import { FastifyInstance, FastifyReply, FastifyRequest } from 'fastify'
 
 export const categories = (app: FastifyInstance) => {
   return (request: FastifyRequest, reply: FastifyReply) => {
-    const language = request.headers['accept-language'] || 'id'
+    const language = request.languages()?.[0] || 'id'
 
     if (!(language in app.data.categories)) {
-      return sendNotFound(reply)
+      return sendBadRequest(reply, 'The language you requested is not available yet.')
     }
 
     const result = app.data.categories[language].map(
@@ -24,12 +24,16 @@ export const categories = (app: FastifyInstance) => {
 
 export const list = (app: FastifyInstance) => {
   return (request: FastifyRequest<{ Params: { slug: string } }>, reply: FastifyReply) => {
-    const language = request.headers['accept-language'] || 'id'
+    const language = request.languages()?.[0] || 'id'
     const { slug } = request.params
     const category = (app.data.categories[language] as CategoryType[]).find((i) => i.slug === slug)
 
-    if (!category || !(slug in app.data.items) || !(language in app.data.items[slug])) {
+    if (!category || !(slug in app.data.items)) {
       return sendNotFound(reply)
+    }
+
+    if (!(language in app.data.items[slug])) {
+      return sendBadRequest(reply, 'The language you requested is not available yet.')
     }
 
     const items = app.data.items[slug][language]
@@ -49,22 +53,20 @@ export const detail = (app: FastifyInstance) => {
     request: FastifyRequest<{ Params: { slug: string; id: number } }>,
     reply: FastifyReply
   ) => {
-    const language = request.headers['accept-language'] || 'id'
+    const language = request.languages()?.[0] || 'id'
     const { slug, id } = request.params
     const category = (app.data.categories[language] as CategoryType[]).find((i) => i.slug === slug)
     const index = Number(id) - 1
 
-    if (
-      !category ||
-      !(slug in app.data.items) ||
-      !(language in app.data.items[slug]) ||
-      !(index in app.data.items[slug][language])
-    ) {
+    if (!category || !(slug in app.data.items)) {
       return sendNotFound(reply)
     }
 
-    const item = app.data.items[slug][language][index]
+    if (!(language in app.data.items[slug]) || !(index in app.data.items[slug][language])) {
+      return sendBadRequest(reply, 'The language you requested is not available yet.')
+    }
 
+    const item = app.data.items[slug][language][index]
     const response = createSpecResponse({
       id: Number(id),
       title: item.title,

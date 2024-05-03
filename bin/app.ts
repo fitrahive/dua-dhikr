@@ -1,5 +1,5 @@
 import fastify from 'fastify'
-import { sendNotFound } from './utils/spec'
+import { sendNotFound } from '../app/helpers/spec'
 
 const app = async () => {
   try {
@@ -9,8 +9,9 @@ const app = async () => {
     await app.register(import('@fastify/cors'))
     await app.register(import('@fastify/compress'))
     await app.register(import('@fastify/etag'))
+    await app.register(import('@fastify/accepts'))
     await app.register(import('@fastify/rate-limit'), { max: 2, timeWindow: '1 second' })
-    await app.register(import('./core'))
+    await app.register(import('../start/core'))
 
     app.setNotFoundHandler((_request, reply) => {
       return sendNotFound(reply)

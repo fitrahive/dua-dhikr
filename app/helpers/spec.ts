@@ -1,4 +1,4 @@
-import { FastifyReply } from 'fastify'
+import type { FastifyReply } from 'fastify'
 
 export const createSpecResponse = (
   data: any,
@@ -19,5 +19,13 @@ export const sendNotFound = (reply: FastifyReply) => {
     statusCode: 404,
     code: 'NOT_FOUND',
     message: 'This endpoint cannot be found.',
+  })
+}
+
+export const sendBadRequest = (reply: FastifyReply, message?: string) => {
+  return reply.status(400).send({
+    statusCode: 400,
+    code: 'BAD_REQUEST',
+    message: message || 'The request you sent is incomplete/invalid.',
   })
 }

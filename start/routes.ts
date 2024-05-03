@@ -1,7 +1,7 @@
-import { home } from './controllers/home'
 import { FastifyInstance } from 'fastify'
-import { languages } from './controllers/languages'
-import { categories, detail, list } from './controllers/categories'
+import { home } from '../app/controllers/home'
+import { languages } from '../app/controllers/languages'
+import { categories, detail, list } from '../app/controllers/categories'
 
 export const routes = (app: FastifyInstance) => {
   app.get('/', home)

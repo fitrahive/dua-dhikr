@@ -1,6 +1,6 @@
-import nodeCache from 'node-cache'
 import { routes } from './routes'
-import { read } from './utils/data'
+import nodeCache from 'node-cache'
+import { read } from '../app/helpers/data'
 import { FastifyInstance, FastifyPluginOptions } from 'fastify'
 
 const load = async (app: FastifyInstance, _: FastifyPluginOptions) => {

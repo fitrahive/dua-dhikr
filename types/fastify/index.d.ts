@@ -1,5 +1,5 @@
+import { DataType } from '..'
 import nodeCache from 'node-cache'
-import { DataType } from '../../src/types'
 
 declare module 'fastify' {
   export interface FastifyInstance {
