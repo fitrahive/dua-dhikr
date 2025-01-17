@@ -1,1 +1,344 @@
-[]
+[
+  {
+    "title": "Supplication Before Sleeping",
+    "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوْتُ وَأَحْيَا",
+    "latin": "bismika, allahumma amuutu wa ahyaa",
+    "translation": "In Your name, O Allah, I die and I live.",
+    "notes": null,
+    "benefits": "The Prophet, peace and blessings be upon him, always started and ended his day with dhikr.",
+    "source": "HR. al-Bukhari"
+  },
+  {
+    "title": "Supplication Upon Waking Up",
+    "arabic": "الحَمْدُ للهِ الَّذِي أَحْيَانَا بعْدَ مَا أماتَنَا وإِلَيْهِ النُّشُورُ",
+    "latin": "alhamdulillahilladzi ahyaanaa ba'da maa amaatanaa wa ilaihin nusyuur",
+    "translation": "All praise is for Allah who gives us life after He has caused us to die, and to Him is the resurrection.",
+    "notes": null,
+    "benefits": "By reciting the supplication above, a servant begins his day by praising the name of Allah, the Giver of Life and the Bringer of Death.",
+    "source": "HR. Bukhari: 6327"
+  },
+  {
+    "title": "Supplication Entering the Bathroom",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+    "latin": "allahumma innii a'uudzubika minal khubutsi wal khabaaitsi",
+    "translation": "O Allah, I seek refuge in You from the evil and the wicked.",
+    "notes": null,
+    "benefits": "This supplication acts as a barrier between a servant's private parts and the jinn when entering the bathroom.",
+    "source": "HR. al-Bukhari and Muslim"
+  },
+  {
+    "title": "Supplication Leaving the Bathroom",
+    "arabic": "غُفْرَانَكَ",
+    "latin": "ghuf-raanak",
+    "translation": "I ask for Your forgiveness (O Allah).",
+    "notes": null,
+    "benefits": "The bathroom is one of the homes of the jinn and devils, so it is recommended to ask for forgiveness for any mistakes, intentional or unintentional, made while in the bathroom.",
+    "source": "HR. at-Tirmidzi"
+  },
+  {
+    "title": "Supplication Before Eating",
+    "arabic": "بِسْمِ اللَّهِ",
+    "latin": "bismillah",
+    "translation": "In the name of Allah.",
+    "notes": null,
+    "benefits": "The benefit of reciting Bismillah before eating is to prevent Satan from joining humans in eating.",
+    "source": "HR. al-Bukari No. 5376 and Muslim No. 2022"
+  },
+  {
+    "title": "Supplication If Forgetting Bismillah at the Beginning of a Meal",
+    "arabic": "بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ",
+    "latin": "bismillahi awwaluhu wa aakhiruhu",
+    "translation": "In the name of Allah, at its beginning and its end.",
+    "notes": null,
+    "benefits": "Islam pays great attention to etiquette. If someone forgets to recite the supplication before eating at the beginning, it is still recommended to recite it in the middle, even if there is only a spoonful of rice left.",
+    "source": "HR. Abu Dawud"
+  },
+  {
+    "title": "Supplication After Eating",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِى أَطْعَمَنِى هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّى وَلاَ قُوَّةٍ",
+    "latin": "alhamdulillaahilladzii ath'amanii haadzaa wa rozaqoniihi min ghoiri haulin minnii wa laa quwwatin",
+    "translation": "All praise is to Allah who has fed me this and provided for me without any power or strength from me.",
+    "notes": null,
+    "benefits": "The Messenger of Allah, peace and blessings be upon him, said that if someone recites this supplication, then his past sins will be forgiven.",
+    "source": "Shahih at-Tirmidzi"
+  },
+  {
+    "title": "Supplication Entering the Mosque",
+    "arabic": "اَللَّهُمَّ افْتَحْ لِيْ أَبْوَابَ رَحْمَتِكَ",
+    "latin": "allahummaftah lii abwaaba rahmatika",
+    "translation": "O Allah, open the doors of Your mercy for me.",
+    "notes": null,
+    "benefits": "The mosque is the house of Allah; a servant should honor it and hope for Allah's mercy within it.",
+    "source": "HR. Muslim"
+  },
+  {
+    "title": "Supplication Leaving the Mosque",
+    "arabic": "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ",
+    "latin": "allahumma innii as'aluka min fadhlika",
+    "translation": "O Allah, I ask You for Your bounty.",
+    "notes": null,
+    "benefits": "Allah's earth is vast, and there are many ways to seek provision. A servant should ask for Allah's bounty to be facilitated in obtaining the provision that Allah has distributed to all His servants.",
+    "source": "HR. Muslim No. 713"
+  },
+  {
+    "title": "Supplication Before Performing Ablution",
+    "arabic": "بِسْمِ اللَّهِ",
+    "latin": "bismillah",
+    "translation": "In the name of Allah.",
+    "notes": null,
+    "benefits": "It is prescribed to begin every important matter by saying Bismillah, whether it be an act of worship or otherwise.",
+    "source": "HR. at-Tirmidzi and al-Baihaqi"
+  },
+  {
+    "title": "Supplication After Performing Ablution",
+    "arabic": "أشْهَدُ أنْ لا إله إِلاَّ اللَّهُ وَحْدَهُ لا شَرِيك لَهُ ، وأشْهَدُ أنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ ، اللَّهُمَّ اجْعَلْنِي مِنَ التَوَّابِينَ ، واجْعَلْني مِنَ المُتَطَهِّرِينَ ، سُبْحانَكَ اللَّهُمَّ وبِحَمْدِكَ ، أشْهَدُ أنْ لا إلهَ إِلاَّ أنْتَ ، أسْتَغْفِرُكَ وأتُوبُ إِلَيْكَ",
+    "latin": "asyhadu an laa ilaaha illa allah wadahu laa syariika lahu, wa asyhadu anna muhammadan 'abduhu wa rasuuluhu. allahummaj 'alni minat tawwaabiina waj 'alnii minal mutathaahiriina. subhaanaka allahumma wa bihamdika asyhadu an laa ilaaha illa anta astaghfiruka wa atuubu ilaika",
+    "translation": "I bear witness that there is no deity except Allah alone, with no partner, and I bear witness that Muhammad is His servant and Messenger. O Allah, make me among those who repent and make me among those who purify themselves. Glory be to You, O Allah, and with Your praise, I bear witness that there is no deity except You. I seek Your forgiveness and repent to You.",
+    "notes": null,
+    "benefits": "Whoever recites this supplication, eight gates of Paradise will be opened for him, and he may enter from whichever gate he wishes.",
+    "source": "HR. Muslim, at-Tirmidzi and an-Nasa'i"
+  },
+  {
+    "title": "Supplication for Breaking the Fast",
+    "arabic": "ذَهَبَ الظَّمَأُ وابْتَلَّتِ الْعُرُوقُ وثَبَتَ اْلأَجْرُ إِنْ شَاءَاللهُ",
+    "latin": "dzahabazh zhoma'u wabtallatil 'uruqu wa tsabatal ajru insya Allah",
+    "translation": "The thirst has gone, the veins are moistened, and the reward is confirmed, if Allah wills.",
+    "notes": null,
+    "benefits": "It is highly recommended for those who are fasting to increase their supplications before and after breaking the fast, because the supplication of a fasting person is one of the three supplications that are not rejected.",
+    "source": "HR. Abu Daud, As-Sunan Al-Kubra Lil Baihaqi, Vol. 4, p. 239, al-Hakim in Mustadrak 'alas Shahihain No. 1484"
+  },
+  {
+    "title": "Supplication Entering the House #1",
+    "arabic": "اَلسَّلَامُ عَلَيْكُمْ",
+    "latin": "assalaamu 'alaykum",
+    "translation": "Peace be upon you.",
+    "notes": null,
+    "benefits": "The greeting is a supplication of hope, a hope that you will be safe from all kinds of sorrow and suffering, and be enveloped in mercy and blessings.",
+    "source": "HR. at-Tirmidzi"
+  },
+  {
+    "title": "Supplication Entering the House #2",
+    "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَا تُهُ",
+    "latin": "assalaamu 'alaykum warahmatullaahi wabarakaatuh",
+    "translation": "Peace, mercy, and blessings of Allah be upon you.",
+    "notes": null,
+    "benefits": "The greeting is a supplication of hope, a hope that you will be safe from all kinds of sorrow and suffering, and be enveloped in mercy and blessings.",
+    "source": "HR. at-Tirmidzi"
+  },
+  {
+    "title": "Supplication Leaving the House",
+    "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "latin": "bismillaah, tawakkaltu 'alallaah, laa haula wa laa quwwata illaa billaah",
+    "translation": "In the name of Allah, I place my trust in Allah. There is no might nor power except with Allah.",
+    "notes": null,
+    "benefits": "Whoever recites this supplication, it will be said to him: \"You will be guided, sufficed, and protected.\" Satan will then depart from him. Another satan will say: \"How can you harm someone who has been guided, sufficed, and protected?!\"",
+    "source": "HR. Abu Dawud and at-Tirmidzi"
+  },
+  {
+    "title": "Supplication for Protection from Causing or Experiencing Harm Outside the House",
+    "arabic": "اللَّهُمَّ إِنِّى أَعُوذُ بِكَ أَنْ أَضِلَّ أَوْ أُضَلَّ أَوْ أَزِلَّ أَوْ أُزَلَّ أَوْ أَظْلِمَ أَوْ أُظْلَمَ أَوْ أَجْهَلَ أَوْ يُجْهَلَ عَلَىَّ",
+    "latin": "allaahumma innii a'uudzu bika an adhilla au udholla, au azilla au azulla, au azhlima au uzhlama, au ajhala au yujhala 'alayya",
+    "translation": "O Allah, I seek refuge in You lest I should stray or be led astray, slip or be tripped, wrong or be wronged, or act foolishly or have foolishness done to me.",
+    "notes": null,
+    "benefits": "When a person leaves the house, they will encounter all kinds of things, both good and bad, especially harm caused by themselves. Therefore, it is commanded to seek refuge from oneself and from others.",
+    "source": "HR. Abu Dawud, at-Tirmidzi, Ibn Majah and an-Nasa'i"
+  },
+  {
+    "title": "Travel Supplication",
+    "arabic": "الله أَكْبَرُ،الله أَكْبَرُ،الله أَكْبَرُ،سُبْحَانَ الَّذِى سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ اللَّهُمَّ إِنَّا نَسْأَلُكَ فِى سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى وَمِنَ الْعَمَلِ مَا تَرْضَى اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ اللَّهُمَّ أَنْتَ الصَّاحِبُ فِى السَّفَرِ وَالْخَلِيفَةُ فِى الأَهْلِ اللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ وَكَآبَةِ الْمَنْظَرِ وَسُوءِ الْمُنْقَلَبِ فِى الْمَالِ وَالأَهْلِ",
+    "latin": "allahu akbar, allahu akbar, allahu akbar. subhaanal ladzi sakh-khara lanaa haadza wa maa kunna lahuu muqriniin wa inna ilaa rabbina lamun qalibuun. allahumma inna nas aluka fii safarina hadzaa al-birra wat taqwa wa minal amali maa tardhaa. allahumma hawwin 'alaina safarana haadza wathwi 'anna bu'dahu. allahumma anta shaahibu fi safar. wal khaliifatu fil ahli. allahumma inni a'uudzubika min wa'tsaa-issafari wa ka-aabatil mandzari wa suuil munqalabi fil maali wal ahli",
+    "translation": "Allah is the Greatest, Allah is the Greatest, Allah is the Greatest. Glory be to Him who has provided this for us, though we could never have had it by our own efforts. Surely to our Lord we are returning. O Allah, we ask You for righteousness and piety in this journey of ours, and for deeds that please You. O Allah, lighten for us the hardship of this journey and quickly bring us to our destination. O Allah, You are our Companion on the journey and the Guardian of our families. O Allah, I seek refuge in You from the hardship of travel, from a bad return, and from seeing something unpleasant concerning our wealth, family, or children.",
+    "notes": null,
+    "benefits": "This supplication has two parts. The first is praise of Allah and the submission of the servant. The second is a request to Allah for ease in travel and in the affairs of what the servant has left at home.",
+    "source": "HR. Muslim"
+  },
+  {
+    "title": "Supplication of a Resident for Someone Who is Traveling",
+    "arabic": "أَسْتَوْدِعُ اللَّهَ دِينَكَ وَأَمَانَتَكَ وَخَوَاتِيمَ عَمَلِكَ",
+    "latin": "astawdi'ullaha diinaka, wa amaanataka, wa khawaatiima a'maalik",
+    "translation": "I entrust your religion, your trust, and the end of your deeds to Allah.",
+    "notes": null,
+    "benefits": "Three priorities of a servant that must be maintained everywhere: religion, trust, and deeds, because a person will be resurrected according to their deeds.",
+    "source": "HR. Abu Dawud: 2601"
+  },
+  {
+    "title": "Supplication for Piety from a Resident to Someone Who is Traveling",
+    "arabic": "زَوَّدَكَ اللَّهُ التَّقْوَى وَغَفَرَ ذَنْبَكَ  وَيَسَّرَ لَكَ الْخَيْرَ حَيْثُمَا كُنْتَ",
+    "latin": "zawwadakallahut taqwa, wa ghafara dzanbaka, wa yassara lakal khaira haitsumaa kunta",
+    "translation": "May Allah provide you with piety, forgive your sins, and ease goodness for you wherever you are.",
+    "notes": null,
+    "benefits": "Piety is the best provision that a servant must prepare for the Hereafter, because there is no salvation except through piety.",
+    "source": "HR. at-Tirmidzi"
+  },
+  {
+    "title": "Supplication When Wearing New Clothes",
+    "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ كَسَوْتَنِيهِ أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشَرِّ مَا صُنِعَ لَهُ",
+    "latin": "allahumma lakal hamdu anta kasawtaniihi. as-aluka min khoirihi wa khoiri maa shuni'a lah, wa a'udzu bika min syarrihi wa syarri maa shuni'a lah",
+    "translation": "O Allah, to You is all praise. You have clothed me with this. I ask You for its goodness and the goodness for which it was made, and I seek refuge in You from its evil and the evil for which it was made.",
+    "notes": null,
+    "benefits": "By reciting this supplication, one asks that the clothes they have bought may provide goodness and also be a protection against various evils.",
+    "source": "HR. Ahmad, Abu Dawud, at-Tirmidzi and Al-Hakim"
+  },
+  {
+    "title": "Supplication When Wearing Clothes",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِى كَسَانِى هَذَا الثَّوْبَ وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّى وَلاَ قُوَّةٍ",
+    "latin": "alhamdu lillaahil ladzii kasaanii haadzaa wa rozaqoniihi min ghoiri hawlim minni wa laa quwwatin",
+    "translation": "Praise be to Allah who has clothed me with this garment and provided it for me without any power or strength from me.",
+    "notes": null,
+    "benefits": "The virtue of reciting this supplication is that past sins will be forgiven, God willing.",
+    "source": "HR. all compilers of Sunan books, except Nasa'i"
+  },
+  {
+    "title": "Supplication When Mounting a Vehicle",
+    "arabic": "بِسْمِ اللَّهِ، بِسْمِ اللَّهِ، بِسْمِ اللَّهِ، الحَمْدُ للِه، سُبْحَانَ الَّذِى سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ، سُبْحَانَكَ إِنِّى قَدْ ظَلَمْتُ نَفْسِى فَاغْفِرْ لِى فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ",
+    "latin": "bismillah, bismillah, bismillah, alhamdulillah, subhaanalladzi sakh-khara lanaa haadzaa wa maa kunnaa lahuu muqriniin. wa innaa ilaa rabbinaa lamun qalibuun. subhaanaka inni qad dzalamtu nafsii, faghfirlii fa-innahuu laa yaghfirudz dzunuuba illaa anta",
+    "translation": "In the name of Allah, in the name of Allah, in the name of Allah. All praise is to Allah. Glory be to Him who has subjected this to us, and we could not have done so by ourselves. And indeed, to our Lord we will return. Glory be to You, indeed I have wronged myself, so forgive me, for none can forgive sins except You.",
+    "notes": null,
+    "benefits": "By reciting the supplication for mounting a vehicle, our journey will always be under the protection of Allah. In addition, we will also receive rewards, help, and a calmer heart.",
+    "source": "HR. Abu Dawud and at-Tirmidzi"
+  },
+  {
+    "title": "Supplication When it Rains",
+    "arabic": "اللَّهُمَّ صَيِّبًا نَافِعًا",
+    "latin": "allahumma shayyiban naafi'aa",
+    "translation": "O Allah, make it a beneficial rain.",
+    "notes": null,
+    "benefits": "It is encouraged to pray when it rains so that goodness and blessings increase, as well as its benefits.",
+    "source": "HR. al-Bukhari No. 1032"
+  },
+  {
+    "title": "Supplication During Heavy Rain",
+    "arabic": "اللَّهُمَّ حَوَالَيْنَا وَلاَ عَلَيْنَا ، اللَّهُمَّ عَلَى الآكَامِ وَالظِّرَابِ وَبُطُونِ الأَوْدِيَةِ وَمَنَابِتِ الشَّجَرِ",
+    "latin": "allahumma haawalaina wa laa 'alaina. allahumma 'alal aakami wal jibaali, wazh zhiroobi, wa buthunil awdiyati, wa manaabitisy syajari",
+    "translation": "O Allah, (let the rain fall) around us, not on us. O Allah, (let it fall) on the hills, mountains, small mountains, valleys, and places where trees grow.",
+    "notes": null,
+    "benefits": "The supplication above is recited when the rain gets heavier or there is a concern that the rain will cause harm.",
+    "source": "HR. al-Bukhari No. 1014"
+  },
+  {
+    "title": "Supplication After it Rains",
+    "arabic": "مُطِرْنا بفَضْلِ اللهِ ورَحْمَتِهِ",
+    "latin": "muthirna bi fadhlillahi wa rohmatih",
+    "translation": "We have been given rain by the bounty and mercy of Allah.",
+    "notes": null,
+    "benefits": "By reciting this supplication, one believes that rain falls by the will of Allah (Allah's virtue), not by the stars, so they do not become disbelievers in Allah.",
+    "source": "HR. al-Bukhari No. 846 and Muslim No. 71"
+  },
+  {
+    "title": "Supplication During Strong Wind",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَأَعُوْذُ بِكَ مِنْ شَرِّهَا",
+    "latin": "allaahumma innii as-aluka khoirohaa wa a'uudzubika min syarrihaa",
+    "translation": "O Allah, I ask You for the good of this wind, and I seek refuge in You from its evil.",
+    "notes": null,
+    "benefits": "Among the signs of Allah's power is a strong wind that can bring blessings and punishment, namely good and bad. Therefore, a servant should continue to ask for good and seek refuge from all harm.",
+    "source": "HR. Abu Dawud and Ibnu Majah"
+  },
+  {
+    "title": "The Best Supplication for Seeking Forgiveness (Sayyid al-Istighfar)",
+    "arabic": "اَللَّهُمَّ أَنْتَ رَبِّيْ ، لَا إِلٰـهَ إِلاَّ أَنْتَ خَلَقْتَنِيْ وَأَنَا عَبْدُكَ ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ ، أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ ، أَبُوْءُ لَكَ بِنِعْمتِكَ عَلَيَّ ، وَأَبُوْءُ بِذَنْبِيْ فَاغْفِرْ لِيْ ، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ",
+    "latin": "allahumma anta rabbii laa ilaaha illaa anta khalaqtanii wa anna 'abduka wa anaa 'alaa 'ahdika wa wa'dika mastatha'tu a'uudzu bika min syarri maa shana'tu abuu u laka bini' matika 'alayya wa abuu-u bidzanbii faghfir lii fa innahu laa yaghfirudz dzunuuba illa anta",
+    "translation": "O Allah, You are my Lord. There is no deity worthy of worship except You. You created me, and I am Your servant. I abide to Your covenant and promise as best I can. I seek refuge in You from the evil of what I have done. I acknowledge Your blessings upon me, and I acknowledge my sin. So forgive me, for none can forgive sins except You.",
+    "notes": null,
+    "benefits": "Whoever recites it with certainty in the evening, and then he dies, he will enter Paradise, and likewise if (recited) in the morning.",
+    "source": "HR. al-Bukhari No. 6306, 6323, Ahmad IV/122-125, an-Nasa'i VIII/279-280"
+  },
+  {
+    "title": "Supplication for Ease in All Matters",
+    "arabic": "اللَّهُمَّ لاَ سَهْلَ إِلاَّ مَا جَعَلْتَهُ سَهْلاً وَأَنْتَ تَجْعَلُ الحَزْنَ إِذَا شِئْتَ سَهْلاً",
+    "latin": "allahumma laa sahla illa maa ja'altahu sahlaa, wa anta taj'alul hazna idza syi'ta sahlaa",
+    "translation": "O Allah, there is no ease except in that which You make easy, and You make the difficult easy if You wish.",
+    "notes": null,
+    "benefits": "Ease comes only from Allah. Even something difficult can become easy if Allah wills it.",
+    "source": "HR. Ibn Hibban"
+  },
+  {
+    "title": "Supplication When Afflicted by Calamity",
+    "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ اللَّهُمَّ أْجُرْنِى فِى مُصِيبَتِى وَأَخْلِفْ لِى خَيْرًا مِنْهَا",
+    "latin": "inna lillahi wa inna ilaihi rooj'un. allahumma'jurnii fii mushibatii wa akhlif lii khoiron minhaa",
+    "translation": "Indeed we belong to Allah, and indeed to Him we will return. O Allah, reward me for my affliction and replace it with something better.",
+    "notes": null,
+    "benefits": "A servant should recite the supplication above when afflicted by calamity with certainty and hope. God willing, with this, they will receive a better replacement.",
+    "source": "HR. Muslim"
+  },
+  {
+    "title": "Supplication When in Debt",
+    "arabic": "اللَّهُمَّ اكْفِنِى بِحَلاَلِكَ عَنْ حَرَامِكَ وَأَغْنِنِى بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+    "latin": "allahumak-finii bi halaalika 'an haroomik, wa agh-niniy bi fadhlika 'amman siwaak",
+    "translation": "O Allah, suffice me with what is lawful and keep me away from what is unlawful, and enrich me with Your bounty so I do not depend on anyone besides You.",
+    "notes": null,
+    "benefits": "Lawful provision, even if it is little, is better than abundant unlawful wealth.",
+    "source": "HR. at-Tirmidzi No. 2563"
+  },
+  {
+    "title": "Supplication for Protection from Laziness, Sadness, and Debt",
+    "arabic": "اَللّٰهُمَّ إِنِّى أَعُوْذُبِكَ مِنَ الْهَمِّ وَالْحَزْنِ وَأَعُوْذُبِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَأَعُوْذُبِكَ مِنَ الْجُبْنِ وَالْبُخْلِ وَأَعُوْذُبِكَ مِنْ غَلَبَتِ الدَّيْنِ وَقَهْرِ الرجال",
+    "latin": "allahumma innii a'uudzu bika minal hammi wal hazan. wa a'udzu bika minal 'ajzi wal kasal. wa a'udzu bika minal jubni wal bukhl. wa a'uudzu bika min ghalabatid daini wa qahrir rijaal",
+    "translation": "O Allah, I seek refuge in You from anxiety and grief, and I seek refuge in You from incapacity and laziness, and I seek refuge in You from cowardice and miserliness, and I seek refuge in You from being overpowered by debt and from being overcome by men.",
+    "notes": null,
+    "benefits": "Abu Umamah then narrated: After I practiced this supplication, Allah truly removed my anxiety and gave me the ability to repay my debt.",
+    "source": "HR. Abu Dawud No. 1555"
+  },
+  {
+    "title": "Supplication After Sneezing",
+    "arabic": "الحَمْدُ للهِ",
+    "latin": "alhamdulillah",
+    "translation": "All praise is to Allah.",
+    "notes": null,
+    "benefits": "Indeed, Allah loves sneezing because it moves a person to worship. It is encouraged to respond to the praise of Allah by someone who praises Allah, and vice versa.",
+    "source": "HR. al-Bukhari"
+  },
+  {
+    "title": "Supplication Upon Hearing Someone Sneeze",
+    "arabic": "يَرْحَمُكَ اللهُ",
+    "latin": "yarhamukallah",
+    "translation": "May Allah have mercy on you.",
+    "notes": null,
+    "benefits": "Indeed, Allah loves sneezing because it moves a person to worship. It is encouraged to respond to the praise of Allah by someone who praises Allah, and vice versa.",
+    "source": "HR. al-Bukhari"
+  },
+  {
+    "title": "Response to Someone Who Says 'Yarhamukallah' After You Sneeze",
+    "arabic": "يَهْدِيكُمُ اللهُ وَيُصْلِحُ بَالَكُمْ",
+    "latin": "yahdikumullah wa yushlihu baalakum",
+    "translation": "May Allah guide you and improve your condition.",
+    "notes": null,
+    "benefits": "Indeed, Allah loves sneezing because it moves a person to worship. It is encouraged to respond to the praise of Allah by someone who praises Allah, and vice versa.",
+    "source": "HR. al-Bukhari"
+  },
+  {
+    "title": "Supplication for Good Character",
+    "arabic": "اللَّهُمَّ كَمَا حَسَّنْتَ خَلْقِي فَحَسِّنْ خُلُقِي",
+    "latin": "allahumma kamaa hassanta kholqii fahassin khuluqii",
+    "translation": "O Allah, just as You have made my external form good, make my character good as well.",
+    "notes": null,
+    "benefits": "A charming appearance is not enough provision for a Muslim, but it must be accompanied by noble character. Therefore, a Muslim should constantly ask for their character to be improved and beautified.",
+    "source": "HR. Ahmad, authenticated by al-Albani in al-Irwa', 1/115"
+  },
+  {
+    "title": "Prayer for Protection from Satan",
+    "arabic": "رَبِّ أَعُوْذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِيْنِ وَأَعُوْذُ بِكَ رَبِّ أَنْ يَحْضُرُوْنِ",
+    "latin": "rabbi a'uudzu bika min hamazaatisy-syayaathiin wa a'uudzu bika rabbi ay yahdhuruun",
+    "translation": "My Lord, I seek refuge in You from the whispers of Satan, and I seek refuge in You, my Lord, from their presence around me.",
+    "notes": null,
+    "fawaid": "Indeed, Allah commands the Prophet Muhammad and all his followers to seek refuge from the whispers of Satan in all activities, especially when approaching death. Satan whispers evil into the hearts of humans, encouraging wrongdoing.",
+    "source": "QS. Al-Mu'minun: 97-98"
+  },
+  {
+    "title": "Prayer After the Adhan",
+    "arabic": "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلَاةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ",
+    "latin": "allahumma rabba haadzihid da'watit taammah, wasshalaatil qaaaimah, aati muhammadanil wasiilata wal fadhiiilata, wab'atshu maqaaman mahmuuda alladzii wa'adtah",
+    "translation": "O Allah, Lord of this perfect call and the established prayer, grant Muhammad the wasilah (a high status in Paradise) and the excellence (above all creation), and raise him to the praiseworthy station that You have promised him.",
+    "notes": null,
+    "fawaid": "This prayer is recommended by the Prophet Muhammad (peace be upon him) for those who hear the call to prayer. It has many benefits, including receiving intercession from the Prophet on the Day of Judgment, attaining the wasilah and honor in Paradise for the Prophet, and receiving great and commendable reward from Allah. It is also a way to show respect and admiration for Allah and His Messenger, expressing love and longing for the Prophet Muhammad, the role model for Muslims.",
+    "source": "Narrated by Abu Dawud (529), at-Tirmidhi (211), an-Nasa'i (2:26), Ibn Majah (722)"
+  },
+  {
+    "title": "Prayer for Forgiveness for Parents",
+    "arabic": "رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ",
+    "latin": "rabbanagfir lii wa liwaalidayya wa lil-mu'miniina yauma yaquumul-hiisaab",
+    "translation": "Our Lord, forgive me and my parents and all the believers on the Day the account is established.",
+    "notes": null,
+    "fawaid": "This is a prayer of Prophet Ibrahim (peace be upon him), teaching us to honor and love our parents, remember the Day of Judgment, and care for fellow believers. By making this prayer, we hope that Allah will forgive our sins and make us among the faithful.",
+    "source": "QS. Ibrahim: 41"
+  }
+]
