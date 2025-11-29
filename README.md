@@ -34,7 +34,6 @@ A free RESTful API server that provides Duas and Dhikr following the Sunnah of t
    ```
 
 4. Run locally
-
    - Development mode
 
      ```bash
@@ -42,7 +41,6 @@ A free RESTful API server that provides Duas and Dhikr following the Sunnah of t
      ```
 
    - Production mode
-
      1. Build first
 
         ```bash

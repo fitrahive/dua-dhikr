@@ -79,7 +79,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.4.8",
-    "commitizen": "^3.0.0",
+    "commitizen": "^4.3.1",
     "copyfiles": "^2.4.1",
     "cz-conventional-changelog": "^3.0.1",
     "husky": "^8.0.3",

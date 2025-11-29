@@ -34,7 +34,6 @@ _Server_ RESTful API gratis yang menyajikan Doa dan Dzikir sesuai Sunnah Nabi Mu
    ```
 
 4. Jalankan di lokal
-
    - Mode pengembangan (_development_)
 
      ```bash
@@ -42,7 +41,6 @@ _Server_ RESTful API gratis yang menyajikan Doa dan Dzikir sesuai Sunnah Nabi Mu
      ```
 
    - Mode produksi
-
      1. _Build_ terlebih dulu
 
         ```bash
